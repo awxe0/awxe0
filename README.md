@@ -17,8 +17,11 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=awxe0&theme=tokyonight" alt="GitHub Streak" />
-
-## GitHub Activity Graph
+![](https://github-readme-stats.vercel.app/api?username=awxe0&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=awxe0&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awxe0&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=awxe0&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+
+ ## 💰 You can help me by Donating
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/awxe) 
