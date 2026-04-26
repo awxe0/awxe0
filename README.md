@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=AB2AD4&center=true&vCenter=true&width=435&lines=Hi!;+I+am+Ali+Alsancak;welcome+to+my+profile;feel+free+to+look+around)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=AB2AD4&center=true&vCenter=true&width=435&lines=Hi!;+I+am+Ali+Alsancak;welcome+to+my+profile;feel+free+to+look+around)](https://git.io/typing-svg)
 
 • I recently graduated from Dumlupınar University in Computer Programming  
 • I’m interested in game development, modding and creative software projects  
