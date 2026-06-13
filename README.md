@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=AB2AD4&center=true&vCenter=true&width=435&lines=Hi!;+I+am+Ali+Alsancak;welcome+to+my+profile;feel+free+to+look+around)](https://git.io/typing-svg) 
 <p align="center">
-• I recently graduated from Dumlupınar University in Computer Programming<br>
 • I’m interested in game development, modding and creative software projects<br>
 • Passionate about building unique experiences, especially in strategy and roguelite-style games
 </p>
@@ -10,8 +9,6 @@
 ## Contact Me
 • You can contact me from the links and mail in my profile.
 <p><a href="https://www.linkedin.com/in/ali-alsancak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>    
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alialsancak37@gmail.com)
 
 ## Tech Stack
 • Currently learning and improving myself in C#, C++, Java, JavaScript, Lua, CSS and Unity.
